@@ -11,8 +11,7 @@
             ]
         },
         "properties": {
-            "mass": "30",
-            "count": "30",
+            "reshares_count": "30",
             "name": "Reshares",
             "reclong": "6.083330",
             "id": "1",
@@ -29,12 +28,28 @@
             ]
         },
         "properties": {
-            "mass": "3000000",
-            "count": "3000000",
+            "reshares_count": "3000000",
             "name": "Reshares",
             "reclong": "3.666670",
             "id": "1",
             "reclat": "36.16667"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                46.66667,
+                39.75
+            ]
+        },
+        "properties": {
+            "reshares_count": "591222598",
+            "name": "Reshares",
+            "reclong": "46.66667",
+            "id": "1",
+            "reclat": "39.7500000"
             }
         }
     ]
