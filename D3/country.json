@@ -1,8 +1,8 @@
 {
-"type": "FeatureCollection",
+"type": "GeoReshareCollection",
     "features": [
         {
-            "type": "Feature",
+            "charttype": "Geo-based reshare",
             "geometry": {
             "type": "Point",
             "coordinates": [
@@ -19,7 +19,7 @@
             }
         },
         {
-            "type": "Feature",
+            "charttype": "Geo-based reshare",
             "geometry": {
             "type": "Point",
             "coordinates": [
@@ -36,7 +36,7 @@
             }
         },
         {
-            "type": "Feature",
+            "charttype": "Geo-based reshare",
             "geometry": {
             "type": "Point",
             "coordinates": [
